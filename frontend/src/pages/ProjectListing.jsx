@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import ProjectCard from "../components/ProjectCard.jsx";
+import ProjectCard from "../components/ProjectCard/ProjectCard.jsx";
 
 class ProjectListing extends Component {
   render() {
